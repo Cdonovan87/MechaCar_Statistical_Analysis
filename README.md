@@ -3,6 +3,7 @@
 For this challenge I was tasked with performing multiple different analytical tests on production data for a product called the Mechacar to help gain insights that might help the manufaturing team of AutosRUs'.
 ## Linear Regression to Predict MPG
 The first test that I ran was a linear regression model that predicted the mpg of MechaCar Prototypes based on certain metrics.
+
 ![alt text](https://github.com/Cdonovan87/MechaCar_Statistical_Analysis/blob/main/Images/linearsum.png)
 
 
